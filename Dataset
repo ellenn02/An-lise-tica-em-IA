@@ -1,0 +1,15 @@
+
+### 5. Dataset
+
+Certifique-se de que o arquivo de dados está na pasta `data/` e nomeado de forma consistente (por exemplo, `ethics_ai_dataset.csv`).
+
+---
+
+**Passos para começar:**
+
+1. Baixe o arquivo de dados e coloque-o na pasta `data/`.
+2. Crie os scripts e notebooks conforme a estrutura sugerida.
+3. Preencha o `README.md`, `requirements.txt`, e `.gitignore` conforme os exemplos fornecidos.
+4. Execute a análise e documente os resultados no `README.md`.
+
+Se precisar de ajuda com qualquer parte específica do projeto, é só avisar!
