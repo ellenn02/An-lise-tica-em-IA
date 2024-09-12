@@ -1,0 +1,20 @@
+ethics_ai_analysis/
+│
+├── data/
+│   ├── ethics_ai_dataset.csv  # Arquivo de dados fornecido para análise
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb  # Análise Exploratória de Dados
+│   ├── 02_trend_analysis.ipynb    # Identificação de Tendências
+│   ├── 03_topic_identification.ipynb  # Identificação de Principais Tópicos
+│   ├── 04_sentiment_analysis.ipynb   # Análise de Sentimento
+│   └── 05_visualization.ipynb    # Visualização de Dados
+│
+├── src/
+│   ├── data_preprocessing.py  # Código para pré-processamento dos dados
+│   ├── analysis.py           # Código para análise dos dados
+│   └── visualization.py      # Código para visualizações
+│
+├── requirements.txt          # Dependências do projeto
+├── .gitignore                 # Arquivos e diretórios a serem ignorados pelo Git
+└── README.md                  # Descrição do projeto e instruções
