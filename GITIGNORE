@@ -1,0 +1,60 @@
+# Ignorar arquivos de dados brutos
+data/*.csv
+
+# Ignorar arquivos de notebooks gerados
+*.ipynb_checkpoints
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos gerados por IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração de ambiente virtual
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos de cache
+.cache/
+
+# Ignorar arquivos de saída de análise
+*.html
+*.pdf
+*.png
+*.jpg
+*.svg
+
+Contexto
+Com o crescente impacto da Inteligência Artificial (IA) em diversas áreas da sociedade, questões éticas relacionadas ao uso e desenvolvimento dessas tecnologias se tornaram cada vez mais relevantes. A compreensão das tendências e dos principais temas discutidos em artigos sobre ética em IA é crucial para orientar a tomada de decisões e políticas nesta área.
+
+Objetivo
+O objetivo deste projeto é realizar uma análise detalhada de um conjunto de dados fornecido, com o propósito de extrair insights sobre ética em Inteligência Artificial. A análise será conduzida em várias etapas, com foco em entender as tendências ao longo do tempo, identificar os principais tópicos discutidos, e avaliar a percepção geral em relação a ética em IA.
+
+Problemas a Serem Solucionados
+Análise Exploratória de Dados (AED): Realizar uma análise exploratória do conjunto de dados para entender sua estrutura, características e qualidade. Identificar padrões, inconsistências e insights preliminares.
+
+Identificação de Tendências: Analisar os dados ao longo do tempo para identificar tendências emergentes nos temas discutidos em artigos sobre ética em IA. Investigar como os tópicos e preocupações evoluíram.
+
+Principais Tópicos: Identificar e categorizar os principais tópicos abordados nos artigos sobre ética em IA. Avaliar a relevância e a frequência desses tópicos para entender quais são mais discutidos e considerados importantes.
+
+Análise de Sentimento: Realizar uma análise de sentimento para avaliar a percepção geral sobre ética em IA nos artigos analisados. Identificar as emoções predominantes e as opiniões expressas.
+
+Visualização de Dados: Criar visualizações informativas para comunicar os insights obtidos de forma clara e eficaz. Utilizar gráficos e tabelas para representar tendências, tópicos principais e resultados da análise de sentimento.
+
+Conjunto de Dados
+O conjunto de dados para análise está disponível no link fornecido. Este arquivo contém informações sobre artigos relacionados a ética em IA, incluindo títulos, datas, e textos dos artigos.
+
+Entregáveis
+Relatório de Análise Exploratória de Dados (AED)
+Identificação e análise de tendências ao longo do tempo
+Relatório sobre os principais tópicos discutidos
+Análise de sentimento com visualizações
+Visualizações informativas para comunicar os insights
